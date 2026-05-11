@@ -66,4 +66,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nikolast178.nikolast178&left_color=midnightblue&right_color=forestgreen&left_text=Nikola's%20Visitors"  />
 </div>
 
+<img width="906" height="637" alt="image" src="https://github.com/user-attachments/assets/6ca7e09e-5eab-4cdb-b254-de43fbc3d295" />
+
+
 ###
