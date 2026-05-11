@@ -57,7 +57,7 @@
 ###
 
 <br clear="both">
-
+<center>Small Program for my Discord Server - Invite Helper. The final project is with ".exe" format, but I sent the upload so you can check the code and understand how it works. Free for use and edit.</center>
 <img src="https://github.com/nikolast178/nikolast178/blob/git-profile/snake.svg" alt="Snake animation" />
 <img width="913" height="740" alt="image" src="https://github.com/user-attachments/assets/6d42d62c-406a-4b2f-80f4-9d664addd33f" />
 
